@@ -1,13 +1,21 @@
 
-#one{
-    /* display: flex; */
-}
 .inner{
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
     gap: 1rem;
 }
+
+
+/*assgnment*/
+.outer{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    gap: 1rem; 
+}
+
+
 
 
 
